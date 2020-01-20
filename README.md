@@ -4,3 +4,4 @@ This repository contains the seperate c# code required to build my project, Vaga
 
 # What I Learned
 
+I have been able to improve my ability at software management especially agile software management.
